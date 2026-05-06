@@ -174,16 +174,3 @@ Ensure Java version matches the project requirements:
 java -version
 ```
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Contact & Support
-
-For questions, issues, or suggestions, please create an issue on the [GitHub Issues](https://github.com/AshfatAbegh/Agave-API-Test-Automation/issues) page.
-
-**Author**: [@AshfatAbegh](https://github.com/AshfatAbegh)
-
----
-
-**Last Updated**: 2026-05-06
